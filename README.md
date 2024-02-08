@@ -1,4 +1,4 @@
-Simple code to just check Jenkins-Git integration.
+Simple steps for Jenkins-Git integration.
 Steps to integrate jenkins to git: 
 1. Install necessary plugins , ie . git integration plugin by clicking on Manage Plugin-> Available Plugin
 2. Make a new freestyle project.
